@@ -1,0 +1,19 @@
+{
+  "name": "@yiyumin/golf-card-game-library",
+  "version": "0.1.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yiyumin/golf-card-game-library.git"
+  },
+  "keywords": [],
+  "author": "Yumin Yi",
+  "license": "MIT",
+  "homepage": "https://github.com/yiyumin/golf-card-game-library#readme",
+  "files": [
+    "deck-helper.ts",
+    "golf-game.ts",
+    "types.ts",
+    "utils.ts"
+  ]
+}
