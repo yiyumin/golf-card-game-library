@@ -1,18 +1,18 @@
 {
-  "name": "@yiyumin/golf-card-game-library",
-  "version": "0.2.0",
+  "name": "@yiyumin/golf-game-library",
+  "version": "0.1.0",
   "description": "",
   "scripts": {
     "build": "tsc"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yiyumin/golf-card-game-library.git"
+    "url": "git+https://github.com/yiyumin/golf-game-library.git"
   },
   "keywords": [],
   "author": "Yumin Yi",
   "license": "MIT",
-  "homepage": "https://github.com/yiyumin/golf-card-game-library#readme",
+  "homepage": "https://github.com/yiyumin/golf-game-library#readme",
   "files": [
     "types.d.ts",
     "types.js",
