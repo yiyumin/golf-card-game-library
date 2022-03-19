@@ -2,6 +2,9 @@
   "name": "@yiyumin/golf-card-game-library",
   "version": "0.1.0",
   "description": "",
+  "scripts": {
+    "build": "tsc"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/yiyumin/golf-card-game-library.git"
@@ -11,9 +14,12 @@
   "license": "MIT",
   "homepage": "https://github.com/yiyumin/golf-card-game-library#readme",
   "files": [
-    "deck-helper.ts",
-    "golf-game.ts",
-    "types.ts",
-    "utils.ts"
-  ]
+    "types.d.ts",
+    "types.js",
+    "utils.d.ts",
+    "utils.js"
+  ],
+  "devDependencies": {
+    "typescript": "^4.6.2"
+  }
 }
